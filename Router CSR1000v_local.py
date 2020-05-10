@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 import requests , urllib3
 from netmiko import  ConnectHandler
 from ncclient import manager
