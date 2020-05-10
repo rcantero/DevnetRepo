@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 
 def num1():
     stringa=input("Introduce un numero : ")
